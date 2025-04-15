@@ -34,3 +34,49 @@ NQDTechPro/
 ├── Program.cs              # Khởi tạo và cấu hình app
 ├── NQDTechPro.csproj       # File cấu hình project
 └── README.md
+
+💡 Các tính năng chính (Use Cases)
+🛒 Quản lý sản phẩm (Laptops)
+Thêm/sửa/xoá laptop
+
+Lấy danh sách laptop (lọc theo hãng, giá, cấu hình,...)
+
+Tìm kiếm laptop theo từ khóa
+
+👤 Quản lý người dùng
+Đăng ký / đăng nhập
+
+Phân quyền (Admin, Khách hàng)
+
+📦 Đơn hàng
+Tạo đơn hàng mới
+
+Cập nhật trạng thái đơn hàng
+
+Xem lịch sử mua hàng
+
+🛍️ Giỏ hàng
+Thêm/sửa/xoá sản phẩm trong giỏ hàng
+
+Tính tổng giá tiền
+
+🔒 Xác thực & Phân quyền
+JWT Authentication
+
+Role-based Authorization
+
+📌 Ghi chú
+Dự án này đang ở phiên bản đầu tiên (v1).
+
+Chưa tích hợp thanh toán online, gửi email xác nhận.
+
+Có thể mở rộng phần giao diện bằng Blazor hoặc ReactJS.
+
+✨ Tác giả
+Nguyễn Quang Duy
+Email: [nguyenquangduy12112004@gmail.com]
+GitHub: NguyenQuangDuy1211
+Facebook: https://www.facebook.com/profile.php?id=100034063569091
+SDT: 0346871187
+
+
