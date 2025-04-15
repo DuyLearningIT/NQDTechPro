@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Learning_IT\\NET\\NQDTechPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:controllers\\authencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\mappers\\reviewmapperr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:mappers\\reviewmapperr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\dtos\\review\\createreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:dtos\\review\\createreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:dtos\\review\\reviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\dtos\\user\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:dtos\\user\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\dtos\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:dtos\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\dtos\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:dtos\\user\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|c:\\learning_it\\net\\nqdtechpro\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEFFA0F-5CB0-4EAD-BA24-F0603FF1A72B}|NQDTechPro.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbContext.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Data\\dbContext.cs",
+              "RelativeDocumentMoniker": "Data\\dbContext.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Data\\dbContext.cs",
+              "RelativeToolTip": "Data\\dbContext.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwv6gAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T15:34:33.991Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenController.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Controllers\\AuthenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenController.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Controllers\\AuthenController.cs",
+              "RelativeToolTip": "Controllers\\AuthenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:09:42.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewDto.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\Review\\ReviewDto.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\Review\\ReviewDto.cs",
+              "RelativeToolTip": "DTOs\\Review\\ReviewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:31:28.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\ReviewService.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Services\\ReviewService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:40:48.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:38:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtService.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Services\\JwtService.cs",
+              "RelativeToolTip": "Services\\JwtService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:35:26.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IReviewService.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:37:47.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReviewMapperr.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Mappers\\ReviewMapperr.cs",
+              "RelativeDocumentMoniker": "Mappers\\ReviewMapperr.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Mappers\\ReviewMapperr.cs",
+              "RelativeToolTip": "Mappers\\ReviewMapperr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:33:42.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateReview.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\Review\\CreateReview.cs",
+              "RelativeDocumentMoniker": "DTOs\\Review\\CreateReview.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\Review\\CreateReview.cs",
+              "RelativeToolTip": "DTOs\\Review\\CreateReview.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:33:05.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:45:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwIQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:57:15.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:52:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UpdateUser.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\UpdateUser.cs",
+              "RelativeToolTip": "DTOs\\User\\UpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:29:22.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:26:19.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T09:34:32.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\LoginUser.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\LoginUser.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\LoginUser.cs",
+              "RelativeToolTip": "DTOs\\User\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:54:27.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "Mappers\\UserMapper.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:46:27.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "Interfaces\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:44:51.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\CreateUser.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\CreateUser.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\CreateUser.cs",
+              "RelativeToolTip": "DTOs\\User\\CreateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:43:38.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:40:43.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Learning_IT\\NET\\NQDTechPro\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Learning_IT\\NET\\NQDTechPro\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T09:39:45.828Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
