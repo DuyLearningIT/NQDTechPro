@@ -75,7 +75,7 @@ Có thể mở rộng phần giao diện bằng Blazor hoặc ReactJS.
 ✨ Tác giả
 Nguyễn Quang Duy
 Email: [nguyenquangduy12112004@gmail.com]
-GitHub: NguyenQuangDuy1211
+GitHub: DuyLearningIT
 Facebook: https://www.facebook.com/profile.php?id=100034063569091
 SDT: 0346871187
 
